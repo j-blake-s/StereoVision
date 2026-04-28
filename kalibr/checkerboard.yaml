@@ -1,0 +1,5 @@
+target_type: 'checkerboard'
+targetCols: 8           # Number of INTERNAL corners (width)
+targetRows: 6           # Number of INTERNAL corners (height)
+rowSpacingMeters: 0.025  # Size of one square side in meters (e.g., 30mm = 0.03)
+colSpacingMeters: 0.025  # Usually same as rowSpacingMeters
